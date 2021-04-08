@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Felix Mauersberger</title>
+    <link>https://fmauersberger.github.io/publication-type/2/</link>
+      <atom:link href="https://fmauersberger.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2021 Felix Mauersberger</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fmauersberger.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://fmauersberger.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Monetary Policy Rules in a Non-Rational World: A Macroeconomic Experiment</title>
+      <link>https://fmauersberger.github.io/research/mauersberger-monetary-2021-1/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://fmauersberger.github.io/research/mauersberger-monetary-2021-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bounded Rationality in Keynesian Beauty Contests: A Lesson for Central Bankers?</title>
+      <link>https://fmauersberger.github.io/research/mauersberger-bounded-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://fmauersberger.github.io/research/mauersberger-bounded-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thompson Sampling: Predicting Behavior in Games and Markets</title>
+      <link>https://fmauersberger.github.io/research/mauersberger-thompson-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://fmauersberger.github.io/research/mauersberger-thompson-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noisy Bayesian Learning in an Oligopolistic Newsvendor Market with Demand Inertia</title>
+      <link>https://fmauersberger.github.io/research/mauersberger-noisy-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://fmauersberger.github.io/research/mauersberger-noisy-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Curse of a Simplified Macroeconomic Model-An Experimental Study</title>
+      <link>https://fmauersberger.github.io/research/mauersberger-curse-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://fmauersberger.github.io/research/mauersberger-curse-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
